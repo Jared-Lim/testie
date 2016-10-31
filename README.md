@@ -1,7 +1,3 @@
 # testie
-AWWWW
-DAAAMN
-SOOOON
 
-
-TESTING NUMBER TWOOO
+Thank fucking god i needa brush up on terminal shortcuts
